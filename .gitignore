@@ -1,0 +1,18 @@
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+# IntelliJ related
+*.iml
+.idea/
+# VS Code related
+.vscode/
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+# Generated files
+coverage/
